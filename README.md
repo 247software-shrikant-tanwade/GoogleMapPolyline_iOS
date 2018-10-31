@@ -1,13 +1,15 @@
 
 # GoogleMapPolyline_iOS
 
-Display cureent location of user.
-Drawing polyline from source to destination.
-Moving pin (car) from source to destination.
+Display current location of user.
+Drawing route (polyline) from source to destination.
+Moving car (pin or marker) on route from source to destination.
 
 Developed using
-Xcode 10.0
-Swift 4.2 
+Xcode 10.0,
+Swift 4.2,
+GoogleMaps,
+GooglePlaces
 
 # Setup
 Please set your own google map and geoCoding key in AppConstant.swift file
