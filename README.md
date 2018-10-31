@@ -10,8 +10,9 @@ Xcode 10.0
 Swift 4.2 
 
 # Setup
-Please set your own gogle map and geoCoding key in AppConstant.swift file
+Please set your own google map and geoCoding key in AppConstant.swift file
 
+# GoogleMapPolyline_iOS App .gif
 ![alt text](https://github.com/shrikanttanwade/GoogleMapPolyline_iOS/blob/master/GoogleMapPloyline.gif)
 
 
